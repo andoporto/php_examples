@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\php_examples\capitulo8\fechas1\fechas1.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/php_examples/capitulo8/fechas1/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/php_examples/capitulo8/fechas1/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="actualiza_dia_semana;PHP:Function Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f3;22;4;24;;;;vpos;;v;;r;;d38,22;;b0,0;;mdia;;p">
+				<treenode node="dia;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f33;22;37;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="festivo;PHP:Function Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f3;26;4;28;;;;vpos;;v;;r;;d25,26;;b0,0;;mdia;;p">
+				<treenode node="dia;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f20;26;24;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="_GET;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f19;36;24;36;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="anio;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f7;38;12;38;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="contador_de_dias;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f6;60;23;60;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="dia;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f7;36;11;36;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="dias_txt;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f3;18;12;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="fecha;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f1;80;7;80;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="hoy;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f7;35;11;35;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="i;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f11;56;13;56;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="mes;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f7;37;11;37;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="meses_txt;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f3;17;13;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="primer_dia;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f3;45;14;45;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="ultimo_dia;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f3;47;14;47;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="url;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo8\fechas1\Codelobster0.php;f1;82;5;82;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\php_examples\capitulo8\fechas1\index.php" crc="-1229068012"/>
+	</filescache>
+</project>

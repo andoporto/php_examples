@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\php_examples\capitulo5\matrices10\matrices10.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/php_examples/capitulo5/matrices10/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/php_examples/capitulo5/matrices10/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\php_examples\capitulo5\matrices10\index.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="i;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo5\matrices10\index.php;f15;19;17;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="j;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo5\matrices10\index.php;f19;22;21;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="matriz1;PHP:Var Name;C:\xampp\htdocs\php_examples\capitulo5\matrices10\index.php;f7;8;15;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\php_examples\capitulo5\matrices10\index.php" crc="-416697821"/>
+	</filescache>
+</project>
